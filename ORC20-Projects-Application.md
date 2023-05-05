@@ -5,11 +5,13 @@
 3. Create a pull request
 
 ## Application Form
-| Project Name  |                         |
+| Project Name  | ₿                       |
 |---------------|-------------------------|
 | Description   |                         |
 | Logo URL      |                         |
 | Website       |                         |
-| Twitter       |                         |
+| Twitter       |@nakamoto_dao            |
 | Other Links   |                         |
 | Comment       |                         |
+
+I need further info on implementing royalties 3%
