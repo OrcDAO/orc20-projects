@@ -5,11 +5,13 @@
 3. Create a pull request
 
 ## Application Form
-| Project Name  |                         |
+| Project Name  |  SATOSHI                |
 |---------------|-------------------------|
 | Description   |                         |
 | Logo URL      |                         |
 | Website       |                         |
-| Twitter       |                         |
+| Twitter       |nakamoto_dao             |
 | Other Links   |                         |
 | Comment       |                         |
+
+Further info to implement 3% royalty
