@@ -5,11 +5,11 @@
 3. Create a pull request
 
 ## Application Form
-| Project Name  |                         |
+| Project Name  |  NAKAMOTO               |
 |---------------|-------------------------|
 | Description   |                         |
 | Logo URL      |                         |
 | Website       |                         |
-| Twitter       |                         |
+| Twitter       |@nakamoto_dao            |
 | Other Links   |                         |
 | Comment       |                         |
