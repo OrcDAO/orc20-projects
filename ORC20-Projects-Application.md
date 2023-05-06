@@ -12,4 +12,4 @@
 | Website       | https://lira.financial                        |
 | Twitter       | https://twitter.com/lirafinancial                        |
 | Other Links   |                         |
-| Comment       |                         |
+| Comment       | Ticker: lira - ID: 1                        |
