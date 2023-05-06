@@ -5,11 +5,11 @@
 3. Create a pull request
 
 ## Application Form
-| Project Name  |                         |
+| Project Name  |          Lira               |
 |---------------|-------------------------|
-| Description   |                         |
-| Logo URL      |                         |
-| Website       |                         |
-| Twitter       |                         |
+| Description   | Lira is a utility token used to purchase goods or services.              |
+| Logo URL      | https://lira.financial/images/icons/lira.png             |
+| Website       | https://lira.financial                        |
+| Twitter       | https://twitter.com/lirafinancial                        |
 | Other Links   |                         |
 | Comment       |                         |
