@@ -7,7 +7,7 @@
 ## Application Form
 | Project Name  | BRC-20 Staking                       |
 |---------------|-------------------------|
-| Description   | Reward / distribute ORC20 by staking BRC20.                       |
+| Description   | Reward / distribute ORC20 by staking ORC20.                       |
 | Logo URL      |                         |
 | Website       | https://brc20-labs.gitbook.io/brc-20-staking-protocol                     |
 | Twitter       | https://twitter.com/Brc20Lab                       |
