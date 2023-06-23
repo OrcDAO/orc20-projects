@@ -5,11 +5,11 @@
 3. Create a pull request
 
 ## Application Form
-| Project Name  |                         |
+| Project Name  | ORC-20 Staking                       |
 |---------------|-------------------------|
-| Description   |                         |
+| Description   | Reward / distribute ORC20 by staking ORC20.                       |
 | Logo URL      |                         |
-| Website       |                         |
-| Twitter       |                         |
-| Other Links   |                         |
+| Website       | https://brc20-labs.gitbook.io/orc-20-staking-protocol                     |
+| Twitter       | https://twitter.com/Brc20Lab                       |
+| Other Links   | https://t.me/brc20lab                       |
 | Comment       |                         |
